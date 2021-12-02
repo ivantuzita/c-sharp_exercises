@@ -1,0 +1,14 @@
+D:\FEI\PROGRAMMING\C#\ex4For\ex4For\bin\Debug\netcoreapp3.1\ex4For.exe
+D:\FEI\PROGRAMMING\C#\ex4For\ex4For\bin\Debug\netcoreapp3.1\ex4For.deps.json
+D:\FEI\PROGRAMMING\C#\ex4For\ex4For\bin\Debug\netcoreapp3.1\ex4For.runtimeconfig.json
+D:\FEI\PROGRAMMING\C#\ex4For\ex4For\bin\Debug\netcoreapp3.1\ex4For.runtimeconfig.dev.json
+D:\FEI\PROGRAMMING\C#\ex4For\ex4For\bin\Debug\netcoreapp3.1\ex4For.dll
+D:\FEI\PROGRAMMING\C#\ex4For\ex4For\bin\Debug\netcoreapp3.1\ex4For.pdb
+D:\FEI\PROGRAMMING\C#\ex4For\ex4For\obj\Debug\netcoreapp3.1\ex4For.csproj.AssemblyReference.cache
+D:\FEI\PROGRAMMING\C#\ex4For\ex4For\obj\Debug\netcoreapp3.1\ex4For.GeneratedMSBuildEditorConfig.editorconfig
+D:\FEI\PROGRAMMING\C#\ex4For\ex4For\obj\Debug\netcoreapp3.1\ex4For.AssemblyInfoInputs.cache
+D:\FEI\PROGRAMMING\C#\ex4For\ex4For\obj\Debug\netcoreapp3.1\ex4For.AssemblyInfo.cs
+D:\FEI\PROGRAMMING\C#\ex4For\ex4For\obj\Debug\netcoreapp3.1\ex4For.csproj.CoreCompileInputs.cache
+D:\FEI\PROGRAMMING\C#\ex4For\ex4For\obj\Debug\netcoreapp3.1\ex4For.dll
+D:\FEI\PROGRAMMING\C#\ex4For\ex4For\obj\Debug\netcoreapp3.1\ex4For.pdb
+D:\FEI\PROGRAMMING\C#\ex4For\ex4For\obj\Debug\netcoreapp3.1\ex4For.genruntimeconfig.cache
