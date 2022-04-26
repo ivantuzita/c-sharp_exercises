@@ -1,0 +1,14 @@
+D:\FEI\PROGRAMMING\C#\Secao4_PrimeirosExs\Secao4_PrimeirosExs\bin\Debug\netcoreapp3.1\Secao4_PrimeirosExs.exe
+D:\FEI\PROGRAMMING\C#\Secao4_PrimeirosExs\Secao4_PrimeirosExs\bin\Debug\netcoreapp3.1\Secao4_PrimeirosExs.deps.json
+D:\FEI\PROGRAMMING\C#\Secao4_PrimeirosExs\Secao4_PrimeirosExs\bin\Debug\netcoreapp3.1\Secao4_PrimeirosExs.runtimeconfig.json
+D:\FEI\PROGRAMMING\C#\Secao4_PrimeirosExs\Secao4_PrimeirosExs\bin\Debug\netcoreapp3.1\Secao4_PrimeirosExs.runtimeconfig.dev.json
+D:\FEI\PROGRAMMING\C#\Secao4_PrimeirosExs\Secao4_PrimeirosExs\bin\Debug\netcoreapp3.1\Secao4_PrimeirosExs.dll
+D:\FEI\PROGRAMMING\C#\Secao4_PrimeirosExs\Secao4_PrimeirosExs\bin\Debug\netcoreapp3.1\Secao4_PrimeirosExs.pdb
+D:\FEI\PROGRAMMING\C#\Secao4_PrimeirosExs\Secao4_PrimeirosExs\obj\Debug\netcoreapp3.1\Secao4_PrimeirosExs.csproj.AssemblyReference.cache
+D:\FEI\PROGRAMMING\C#\Secao4_PrimeirosExs\Secao4_PrimeirosExs\obj\Debug\netcoreapp3.1\Secao4_PrimeirosExs.GeneratedMSBuildEditorConfig.editorconfig
+D:\FEI\PROGRAMMING\C#\Secao4_PrimeirosExs\Secao4_PrimeirosExs\obj\Debug\netcoreapp3.1\Secao4_PrimeirosExs.AssemblyInfoInputs.cache
+D:\FEI\PROGRAMMING\C#\Secao4_PrimeirosExs\Secao4_PrimeirosExs\obj\Debug\netcoreapp3.1\Secao4_PrimeirosExs.AssemblyInfo.cs
+D:\FEI\PROGRAMMING\C#\Secao4_PrimeirosExs\Secao4_PrimeirosExs\obj\Debug\netcoreapp3.1\Secao4_PrimeirosExs.csproj.CoreCompileInputs.cache
+D:\FEI\PROGRAMMING\C#\Secao4_PrimeirosExs\Secao4_PrimeirosExs\obj\Debug\netcoreapp3.1\Secao4_PrimeirosExs.dll
+D:\FEI\PROGRAMMING\C#\Secao4_PrimeirosExs\Secao4_PrimeirosExs\obj\Debug\netcoreapp3.1\Secao4_PrimeirosExs.pdb
+D:\FEI\PROGRAMMING\C#\Secao4_PrimeirosExs\Secao4_PrimeirosExs\obj\Debug\netcoreapp3.1\Secao4_PrimeirosExs.genruntimeconfig.cache
